@@ -1,7 +1,7 @@
 export function StoreHome({ onSave }) {
   return (
     <main>
-      <h1>Welcome back! Pick up where you left off.</h1>
+      <h1>Welcome back! Pick up where you left off.</h1>{/* edited */}
       <p>
         Your trial has ended. <strong>Upgrade</strong> your plan to keep editing.
       </p>
