@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="cards.label.card_number_sample" ditto_api_id="cards.label.card-number-sample">Card No.</string>
+    <string name="cards.label.card_number_sample" ditto_api_id="cards.label.card-number-sample">Card No. EDIT</string>
     <string name="cards.label.expiration_sample" ditto_api_id="cards.label.expiration-sample">Expiration</string>
     <string name="cards.offer_sample" ditto_api_id="cards.offer-sample">See personalized recommendations and offers.</string>
     <string name="errors.offline.description_sample" ditto_api_id="errors.offline.description-sample">Sorry, we couldn’t [what the user was trying to do]. Please try again in a few minutes.</string>

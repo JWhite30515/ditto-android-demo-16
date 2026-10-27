@@ -5,11 +5,11 @@ export function StoreHome({ onSave }) {
       <p>
         Your trial has ended. <strong>Upgrade</strong> your plan to keep editing.
       </p>
-      <a href="/pricing">See our full price list</a>
+      <a href="/pricing">See our full price list EDIT</a>
       <p>Our store hours have changed for the holidays.</p>
       <p>Open daily</p>
       <button type="submit" onClick={onSave}>
-        Save changes
+        Save edits
       </button>
     </main>
   );
