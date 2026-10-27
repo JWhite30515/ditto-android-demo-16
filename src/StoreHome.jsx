@@ -6,8 +6,8 @@ export function StoreHome({ onSave }) {
         Your trial has ended. <strong>Upgrade</strong> your plan to keep editing.
       </p>
       <a href="/pricing">See our full price list</a>
-      <p>Our store hours have changed for the holidays.</p>
-      <p>Open daily</p>
+      <p>Our shop hours have changed for the holidays.</p>
+      <p>Open weekdays</p>
       <button type="submit" onClick={onSave}>
         Save changes
       </button>
