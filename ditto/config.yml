@@ -5,3 +5,4 @@ sources:
         name: Sample Components
 variants: true
 format: android
+outDir: app/src/main/res/values
