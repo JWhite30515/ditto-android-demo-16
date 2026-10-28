@@ -7,7 +7,7 @@ export function StoreHome({ onSave }) {
       </p>
       <a href="/pricing">See our full price list</a>
       <p>Our shop hours have changed for the holidays.</p>
-      <p>Open weekdays</p>
+      <p>Open weekdays only</p>
       <button type="submit" onClick={onSave}>
         Save changes
       </button>
