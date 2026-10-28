@@ -9,7 +9,7 @@ export function StoreHome({ onSave }) {
       <p>Our store hours have changed for the holidays.</p>
       <p>Open daily</p>
       <button type="submit" onClick={onSave}>
-        Save edits456
+        Save edits4567
       </button>
     </main>
   );
